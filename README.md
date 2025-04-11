@@ -46,9 +46,10 @@ Notre solution vise à répondre aux besoins suivants :
  Ahmed Smaoui/Donia Bahloul/Ala Belguith : Étudiants en Génie Informatique à l’ENIS
  
 Projet encadré dans le cadre du module de Computer Vision
+ena doniaaaaaaaaaaaa
 
 
-ahla
+
 
 
 
